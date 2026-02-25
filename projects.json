@@ -1,0 +1,24 @@
+{
+  "projects": [
+    {
+      "name": "townhall",
+      "description": "Build a minecraft townhall where we can hold meeitngs"
+    },
+    {
+      "name": "dragon",
+      "description": "defeat the enderdragon"
+    },
+    {
+      "name": "elytra",
+      "description": "get an elytra and fly around"
+    },
+    {
+      "name": "enderman",
+      "description": "create an enderman farm"
+    },
+    {
+      "name": "netherite",
+      "description": "mine some netherite and make a full set of armor and tools"
+    }
+  ]
+}
